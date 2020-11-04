@@ -1,1 +1,14 @@
+body{
+  border: 8px solid black;
+  padding: 20px;
+  width: 800px;
+  height: 1175px;
+}
 
+img {
+  border: 5px solid black;
+}
+
+body {
+  background-color: lightblue;
+}
