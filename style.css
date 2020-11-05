@@ -1,14 +1,19 @@
-body{
-  border: 8px solid black;
-  padding: 20px;
-  width: 800px;
-  height: 1175px;
-}
-
 img {
-  border: 5px solid black;
+  border: 4px solid black;
+
 }
 
 body {
-  background-color: lightblue;
+  background-image: url(https://s1.1zoom.me/big0/168/Alstroemeria_Wood_planks_Violet_550174_1280x853.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+background-position: -250px 0; 
+  margin: 10% 20%;
+  
+}
+
+.exp-header {
+  border-bottom: 1px solid black;
+
 }
