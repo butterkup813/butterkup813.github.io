@@ -1,20 +1,24 @@
-
 img {
-  border: 4px solid black;
+  border: 4px solid white;
+  width: 250px;
+  height: 250px;
+  filter: grayscale(100%);
 
 }
 
 body {
-  background-image: url(https://s1.1zoom.me/big0/168/Alstroemeria_Wood_planks_Violet_550174_1280x853.jpg);
+  background-image: url(https://images.creativemarket.com/0.1.0/ps/5180355/300/200/m2/fpc/wm0/bagwzavhlevnk1la6llgj8eihjpg7r66buzbneubdn8zo3cajxvfgfyjfsxr8dvd-.jpg?1539172671&s=4e79a10826ee193669d01a499f6496f0);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: top;
   margin: 20% 10%;
+  color: white;
+  font-family: Garamond;
   
 }
 
 .exp-header {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
 
 }
